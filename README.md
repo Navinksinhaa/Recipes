@@ -1,3 +1,3 @@
 # Recipes
 
-Redux App for complex State
+Redux App for complex State Management
