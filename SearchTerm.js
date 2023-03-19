@@ -1,7 +1,7 @@
 import { setSearchTerm, clearSearchTerm } from './searchTermSlice.js';
 import React from 'react';
-const searchIconUrl = 'https://static-assets.codecademy.com/Courses/Learn-Redux/Recipes-App/icons/search.svg'
-const clearIconUrl = 'https://static-assets.codecademy.com/Courses/Learn-Redux/Recipes-App/icons/clear.svg'
+const searchIconUrl = 'https://static-assets/Recipes-App/icons/search.svg'
+const clearIconUrl = 'https://static-assets/Recipes-App/icons/clear.svg'
 
 
 
